@@ -1,0 +1,30 @@
+*{
+    margin=0;
+     padding: 0;
+}
+.header{
+    height: 100vh;
+    position: sticky;
+    z-index: 100;
+}
+.navbar-style{
+   box-shadow: 0 5px 10px #efefef;
+}
+.navbar nav{
+    float: right;
+    position: sticky;
+    z-index: 100;
+
+
+}
+.logo{
+    height: 60px;
+    padding: 2px 4px;
+}
+.icon-bar{
+    background-color: rgb(148, 59, 59);
+}
+li a{
+    color: black;
+}
+
